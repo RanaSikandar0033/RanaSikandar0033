@@ -1,8 +1,4 @@
-# 👋 Hi, I'm Rana Sikandar Ali — Full-Stack Developer & Software Engineer
-
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Achievements" />
-</p>
+# 👋 Hi, I'm a Full-Stack Developer & Software Engineer
 
 With a solid background in engineering robust web applications, data-driven platforms, and scalable backends, I specialize in transforming complex business problems into clean, efficient software solution architectures.
 
@@ -55,23 +51,45 @@ With a solid background in engineering robust web applications, data-driven plat
 
 ---
 
+### 🚀 Featured Projects
+
+#### 🤖 Autonomous Multi-Agent Client Operations Platform
+> AI-driven automation engine for client onboarding, task orchestration, and automated communication workflows.
+
+* 📍 **Stack:** Python, FastAPI, React, Node.js, OpenAI API, PostgreSQL
+* ✅ Engineered multi-agent AI workflows for automated ticket categorization and task assignment
+* ✅ Integrated real-time client communication pipelines and automated invoicing systems
+* ✅ Built secure RBAC (Role-Based Access Control) for client, developer, and admin access
+
+---
+
+#### 🩺 Healthcare Intelligence & Predictive Analytics Platform
+> Data-driven healthcare dashboard providing patient risk scoring, clinical insights, and predictive analytics.
+
+* 📍 **Stack:** Next.js, Python, FastAPI, PostgreSQL, Tailwind CSS
+* ✅ Developed predictive analytics pipelines for patient health trend analysis and reporting
+* ✅ Implemented HIPAA-compliant data encryption and secure API authentication architecture
+* ✅ Designed interactive data visualizations for clinical lab results and patient metrics
+
+---
+
+#### 🛒 E-Commerce & Order Management Platform
+> Scalable full-stack e-commerce engine with inventory tracking, payment processing, and high-concurrency order handling.
+
+* 📍 **Stack:** React, Node.js, Express.js, MongoDB, Redis, Stripe API
+* ✅ Built high-throughput RESTful APIs capable of handling dynamic inventory updates and orders
+* ✅ Integrated Stripe payment gateway with webhook handling for automated order status updates
+* ✅ Implemented Redis caching layers to optimize product search speed and database load
+
+---
+
 ### 📊 GitHub Stats
 
-<p align="left">
-  <!-- Exact Match GitHub Streak Card (Green Border / Dark Theme) -->
-  <a href="https://github.com">
-    <img src="https://herokuapp.com" alt="RanaSikandar0033 GitHub Streak" />
-  </a>
-</p>
 
-<p align="left">
-  <!-- Standard GitHub Stats Card and Languages Side-by-Side -->
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="GitHub Stats" height="165" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Top Languages" height="165" />
-  </a>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanaSikandar0033&theme=2077" alt="GitHub Profile Details" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RanaSikandar0033&theme=2077" alt="Top Languages" height="165" />
 </p>
 
 ---
@@ -79,21 +97,9 @@ With a solid background in engineering robust web applications, data-driven plat
 ### 🛠️ Tech Stack (Icons)
 
 <p align="left">
-  <!-- Row 1 -->
-  <img src="https://shields.io" alt="REACT" />
-  <img src="https://shields.io" alt="NEXT.JS" />
-  <img src="https://shields.io" alt="NODE.JS" />
-  <img src="https://shields.io" alt="EXPRESS.JS" />
-  <img src="https://shields.io" alt=".NET" />
-  <img src="https://shields.io" alt="PYTHON" />
-  <img src="https://shields.io" alt="MONGODB" />
-  <br />
-  <!-- Row 2 -->
-  <img src="https://shields.io" alt="POSTGRESQL" />
-  <img src="https://shields.io" alt="AWS" />
-  <img src="https://shields.io" alt="AZURE" />
-  <img src="https://shields.io" alt="DOCKER" />
-  <img src="https://shields.io" alt="SUPABASE" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,py,mongodb,postgres,aws,azure,docker,supabase&perline=7" alt="Tech Stack" />
+  </a>
 </p>
 
 ---
@@ -101,6 +107,10 @@ With a solid background in engineering robust web applications, data-driven plat
 ### 🌐 Let's Connect
 
 <ul>
-  <li>💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com" target="_blank">https://www.linkedin.com/in/rana-sikandar-528354246/</a></li>
-  <li>✉️ <strong>Email:</strong> <a href="mailto:your-email@e.com">sikandaralirana582@gmail.com</a></li>
+  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/rana-sikandar-528354246/" target="_blank">linkedin.com/in/rana-sikandar-528354246</a></li>
+  <li>✉️ <strong>Email:</strong> <a href="mailto:sikandaralirana582@gmail.com">sikandaralirana582@gmail.com</a></li>
 </ul>
+
+---
+
+> "Good software isn't just code — it's clear thinking, brutal debugging, and elegant design under pressure."
